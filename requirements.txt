@@ -1,8 +1,7 @@
-opencv-python
-mediapipe
 numpy
+opencv-python
 scipy
-matplotlib
 scikit-learn
-torch
-torchvision
+matplotlib
+tqdm
+mediapipe
