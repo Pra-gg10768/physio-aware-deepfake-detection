@@ -257,12 +257,5 @@ python -m experiments.run_classification
 python -m experiments.run_dfd_test
 ```
 
-### 4️⃣ ROI Ablation
-
-```bash
-python -m experiments.run_roi_ablation
-```
-
----
 
 
